@@ -1,0 +1,1 @@
+Personal project for studing EKS clusters
